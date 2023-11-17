@@ -15,4 +15,4 @@ m n o p
 [NWL2020](https://scrabbleplayers.org/w/NWL2020), which has access restrictions.
 
 *Disclaimer*: I am not affiliated with Squaredle in any way. Using this solver to dishonestly achieve a perfect score in a short amount of time in the interest of getting a high score 
-on the leaderboard is considered cheating and strongly discouraged, of which is punishable by having such account be blocked from Squaredle's leaderboard..
+on the leaderboard is considered cheating and strongly discouraged, of which is punishable by having such account be blocked from Squaredle's leaderboard.
