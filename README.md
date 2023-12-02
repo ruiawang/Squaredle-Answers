@@ -1,5 +1,5 @@
 # Squaredle-Answers
-Simple solver for the popular online word hunt game [Squaredle](squaredle.app), by using DFS and a Trie to store a list of valid words which is originally from [this repository](https://github.com/dwyl/english-words/tree/master)
+Simple solver for the popular online word hunt game [Squaredle](https://squaredle.app/), by using DFS and a Trie to store a list of valid words which is originally from [this repository](https://github.com/dwyl/english-words/tree/master)
 pruned to exclude words that are 3 words or less since Squaredle does not count them.
 
 ### Usage
